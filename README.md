@@ -1,2 +1,2 @@
-# banco-de-dados-petshop
-um banco de dados de pet shop
+# Banco-de-Dados-petshop
+Um Banco de Dados de pet shop
